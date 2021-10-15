@@ -1,0 +1,34 @@
+[
+  {
+    "Id": 1,
+    "Name": "Cipla"
+  },
+  {
+    "Id": 2,
+    "Name": "Dr Reddy"
+  },
+  {
+    "Id": 3,
+    "Name": "Sun Pharma"
+  },
+  {
+    "Id": 4,
+    "Name": "Glenmark"
+  },
+  {
+    "Id": 5,
+    "Name": "Cadila Health"
+  },
+  {
+    "Id": 6,
+    "Name": "Pfizer"
+  },
+  {
+    "Id": 8,
+    "Name": "fhfghfg"
+  },
+  {
+    "Id": 7,
+    "Name": "Redis"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "Id": 1,
+    "Name": "Tablet"
+  },
+  {
+    "Id": 2,
+    "Name": "Capsule"
+  },
+  {
+    "Id": 3,
+    "Name": "Drop"
+  },
+  {
+    "Id": 4,
+    "Name": "Injection"
+  },
+  {
+    "Id": 5,
+    "Name": "Ointment"
+  }
+]
